@@ -1,0 +1,107 @@
+* {
+    word-wrap: break-word;
+}
+
+body {
+    border: 1px solid #cecece;
+    background-color: #fff;
+    font-family: Tahoma;
+    color: #222222;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+img {
+    max-width: 98%;
+    margin: 0 4px 0 4px;
+}
+
+a {
+    color: #035283;
+}
+
+a, a:link, a:visited {
+    text-decoration: none;
+}
+
+input {
+    color: #c0c0c0;
+    background-color: #fff;
+    border: 1px solid #cecece;
+    padding: 4px;
+    margin: 4px 0 4px 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    color: #707070;
+    padding: 4px 10px 4px 10px;
+}
+
+.menu {
+    background-color: #2CAAD3;
+    color: #fff;
+    font-weight: bold;
+    padding: 6px 5px 6px 5px;
+    margin-top: 2px;
+}
+
+.nav {
+    background-color: #2CAAD3;
+    color: #fff;
+    font-weight: bold;
+    padding: 8px 0 6px 0;
+    margin-top: 4px;
+    border-bottom: 2px solid #000;
+}
+
+.nav a {
+    color: #fff;
+}
+
+.content {
+    background-color: #f8f8f8;
+    border-bottom: 1px dotted #cecece;
+    padding: 5px;
+    margin: 0 0 6px 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.logo {
+    background: url(../images/bg.png) #99d6f9 top left repeat-x;
+    color: #fff;
+    position: relative;
+    text-align: center;
+    padding: 10px;
+}
+
+.logo a {
+    color: #fff;
+}
+
+.button {
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+    padding: 7px 0 7px 0;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.paging {
+    font-weight: bold;
+    text-align: center;
+    padding: 2px;
+    margin: 4px
+}
+
+hr {
+    background: transparent;
+    border: 0;
+    border-bottom: 1px dotted #ddd;
+}
