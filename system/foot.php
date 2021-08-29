@@ -1,7 +1,7 @@
 <?php if (!defined('ITek')) exit('Not Access'); ?>
 
 <div class="logo">
-<font size="5">&copy; PMTpro</font>
+<span style="font-weight: 600; font-size: x-large">&copy; PMTpro</span>
 </div>
 
 </body>
